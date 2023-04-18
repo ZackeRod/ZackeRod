@@ -1,6 +1,6 @@
 <p align="center"><b>Hi Everyone, I'm Isaque Rodrigues </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></pI
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+to+learn+new+technologies;Brazilian%2C+24+years+old;My+favorite+language+is+java" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+to+learn+new+technologies;Brazilian%2C+27+years+old;My+favorite+language+is+java" alt="Typing SVG" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <a> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></a>
@@ -43,9 +43,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">**Github Stats**   
 
 <p align="center">
-<a href="https://github.com/itstoony">
-<img src="https://github-readme-stats.vercel.app/api?username=itstoony&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itstoony&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="407"  alt="0xabdulkhalid"/>
+<a href="https://github.com/zackerod">
+<img src="https://github-readme-stats.vercel.app/api?username=zackerod&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackerod&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="407"  alt="0xabdulkhalid"/>
 </a>
 </p>
 
