@@ -42,19 +42,23 @@
 
 
 ### Operating Systems 
+<a><img src = "https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+&emsp;
 <a><img src = "https://img.shields.io/badge/Linux-FCC624?style=Plastic&logo=linux&logoColor=black"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"></a>
 
   
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
   
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">**Github Stats**   
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" width="40">**Github Stats**   
 
 <p align="center">
 <a href="https://github.com/zackerod">
@@ -67,12 +71,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 
-<p align="center"><b> Let's Connect..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="80"></p>
+<p align="center"><b> Let's Connect..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="85"></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zackerod/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
+  <a href="https://www.linkedin.com/in/zackerod/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/zackerod/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
 ---
 
 <br>
-Last Edited on: 18/04/2023
+Last Edited on: 22/07/2024
