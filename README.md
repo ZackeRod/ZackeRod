@@ -36,6 +36,9 @@
 <a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"></a>
+
   
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
