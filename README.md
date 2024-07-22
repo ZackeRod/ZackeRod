@@ -39,6 +39,12 @@
 &emsp;
 <a><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Plastic&logo=visual-studio-code&logoColor=white"></a>
 &emsp;
+<a><img src = "https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff"></a>
+&emsp;
+<a><img src = "Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
+&emsp;
 
 
 ### Operating Systems 
@@ -53,6 +59,18 @@
 <a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+### Favorite Gaming Platforms
+<a><img src = "https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Uplay-black?logo=ubisoft"></a>
+&emsp;
 
   
 <br><br>
