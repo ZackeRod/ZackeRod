@@ -20,6 +20,16 @@
 ### Programming languages
 <a><img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=Plastic&logo=java&logoColor=white"></a>
 &emsp;
+<a><img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"></a>
+&emsp;
    
 
 ### IDEs
@@ -29,6 +39,7 @@
 &emsp;
 <a><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Plastic&logo=visual-studio-code&logoColor=white"></a>
 &emsp;
+
 
 ### Operating Systems 
 <a><img src = "https://img.shields.io/badge/Linux-FCC624?style=Plastic&logo=linux&logoColor=black"></a>
