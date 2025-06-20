@@ -22,13 +22,7 @@
 &emsp;
 <a><img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
-&emsp;
 <a><img src = "https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"></a>
 &emsp;
    
 
